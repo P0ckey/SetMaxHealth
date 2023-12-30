@@ -17,14 +17,14 @@ Requirement: Spigot or Paper Server
 3. Enjoy :)
 
 ## Commands:
-**`/setmaxhealth <player> <healthPoints>`**
+`/setmaxhealth <player> <healthPoints>`
 sets the max health for the specified player (please note that 1 health point is half a heart, so for example 10 hearts will be 20 health points)
 
-**`/setmaxhealth all <healthPoints>`**
+`/setmaxhealth all <healthPoints>`
 sets the max health for all online players
 
 ## Permissions:
-**`setmaxhealth.set`** - allows user/group to set another player's or their own max health
+`setmaxhealth.set` - allows user/group to set another player's or their own max health
 
 ## Build From Source:
 By cloning the repository, the maven file that is needed to build the project
