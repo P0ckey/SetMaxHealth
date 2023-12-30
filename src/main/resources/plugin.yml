@@ -1,0 +1,10 @@
+name: SetMaxHealth
+version: '${project.version}'
+main: lyu.leo.setmaxhealth.SetMaxHealth
+api-version: '1.20'
+
+commands:
+  SetMaxHealth:
+    description: Sets the max health of you or another player.
+    usage: /setmaxhealth
+    permission: setmaxhealth.set
