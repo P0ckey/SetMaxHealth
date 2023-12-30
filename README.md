@@ -27,6 +27,7 @@ adds or removes a player to the list of players with their max health locked (ca
 
 ## 🔒 Permissions:
 `setmaxhealth.set` - allows user/group to set another player's or their own max health
+
 `setlocked.set ` - allows user/group to add or remove player from locked list
 
 ## 🔨 Build From Source:
