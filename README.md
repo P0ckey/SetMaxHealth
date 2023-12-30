@@ -1,7 +1,7 @@
 # Set Max Health
 
-[!NOTE]
-Currently, the config.yml in the SetMaxHealth folder that is automatically generated does not server any purpose, and any changes to it will not have an effect. It is planned to be functional in the next update.
+> [!NOTE]
+> Currently, the config.yml in the SetMaxHealth folder that is automatically generated does not server any purpose, and any changes to it will not have an effect. It is planned to be functional in the next update.
 
 ## Information:
 SetMaxHealth is a spigot plugin that allows you to set the maximum health value of a player or all online players.
