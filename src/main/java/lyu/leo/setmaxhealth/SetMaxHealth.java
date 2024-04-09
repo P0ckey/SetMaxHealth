@@ -71,6 +71,7 @@ public final class SetMaxHealth extends JavaPlugin implements Listener {
     public void onDisable() {
         getLogger().info("SetMaxHealth stopped!");
         this.getConfig().set("bypass-users", bypassPlayers);
+        this.getConfig().set("defaultHealth", defaultHealth);
         this.saveConfig();
     }
 }
